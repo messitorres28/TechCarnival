@@ -12,3 +12,17 @@ C:\Users\vkumbhar\Downloads\TechCarnival\TechnologyCarnival\MVCImageSliderFromFo
 C:\Users\vkumbhar\Downloads\TechCarnival\TechnologyCarnival\MVCImageSliderFromFolder\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.csproj.CopyComplete
 C:\Users\vkumbhar\Downloads\TechCarnival\TechnologyCarnival\MVCImageSliderFromFolder\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.dll
 C:\Users\vkumbhar\Downloads\TechCarnival\TechnologyCarnival\MVCImageSliderFromFolder\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.pdb
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\TechCarnivalUnitTesting.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\TechCarnivalUnitTesting.pdb
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.csprojAssemblyReference.cache
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.csproj.CopyComplete
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.dll
+C:\Users\ssoma\Downloads\TechCarnival\TechCarnivalUnitTesting\obj\Release\TechCarnivalUnitTesting.pdb
